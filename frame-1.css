@@ -1,0 +1,151 @@
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 125px;
+  height: 1024px;
+}
+.desktop-1-item {
+  top: 299px;
+  left: 646px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray);
+  box-shadow: 0 4px 130.8px rgba(0, 0, 0, 0.25) inset;
+  width: 149px;
+  height: 146px;
+}
+.style-takes-over1 {
+  position: absolute;
+  top: 250.2px;
+  left: 92.1px;
+  letter-spacing: 0.5em;
+  line-height: 148.03%;
+  text-transform: uppercase;
+  display: inline-block;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 557.9px;
+  height: 59px;
+  transform: rotate(90.21deg);
+  transform-origin: 0 0;
+}
+.i1,
+.nothing-as-fly1 {
+  position: absolute;
+  left: 219px;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  font-weight: 300;
+}
+.i1 {
+  top: 577px;
+  font-size: var(--font-size-17xl);
+  width: 294px;
+  height: 65px;
+}
+.nothing-as-fly1 {
+  top: 632px;
+  font-size: var(--font-size-sm);
+  line-height: 148.03%;
+  width: 351px;
+}
+.air-max1,
+.nike-air-max1 {
+  position: absolute;
+  top: 339px;
+  left: 220px;
+  font-size: var(--font-size-131xl);
+  display: inline-block;
+  font-weight: 900;
+  width: 535px;
+  height: 238px;
+}
+.nike-air-max1 {
+  top: 512px;
+  left: 219px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.07em;
+  font-weight: 300;
+  width: 294px;
+  height: 65px;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 115px;
+  left: 250px;
+  width: 1172.1px;
+  height: 794px;
+}
+.collections1,
+.home1 {
+  top: 0;
+  text-decoration: underline;
+}
+.home1 {
+  position: absolute;
+  left: 46px;
+  letter-spacing: 0.07em;
+  line-height: 148.03%;
+}
+.collections1 {
+  left: 262px;
+}
+.about1,
+.add-to-cards1,
+.collections1,
+.contact1 {
+  position: absolute;
+  letter-spacing: 0.07em;
+  line-height: 148.03%;
+}
+.add-to-cards1 {
+  top: 776px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.about1,
+.contact1 {
+  top: 0;
+  left: 578px;
+  text-decoration: underline;
+}
+.contact1 {
+  left: 810px;
+}
+.desktop-11,
+.home-parent {
+  position: absolute;
+  top: 68px;
+  left: 276px;
+  width: 960px;
+  height: 812px;
+}
+.desktop-11 {
+  top: 0;
+  left: 0;
+  background: linear-gradient(181.14deg, #000, #2c2c2c);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.desktop-1-parent {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-barlow);
+}
+@media screen and (max-width: 960px) {
+  .desktop-1-parent {
+    display: flex;
+    width: 100%;
+    height: 100px;
+  }
+}

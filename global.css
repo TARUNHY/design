@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-barlow: Barlow;
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-131xl: 150px;
+  --font-size-sm: 14px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-dimgray: rgba(82, 82, 82, 0.15);
+  --color-white: #fff;
+  --color-gray-100: #0b0a0a;
+  --color-gray-200: #050505;
+  --color-darkslategray: #404040;
+}
